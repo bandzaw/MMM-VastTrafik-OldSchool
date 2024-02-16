@@ -1,0 +1,29 @@
+{
+  "name": "MMM-VastTrafik-OldSchool",
+  "version": "1.0.0",
+  "description": "Show the departure times for public transport in Gothenburg, Sweden",
+  "main": "MMM-VastTrafik-OldSchool.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bandzaw/MMM-VastTrafik-OldSchool.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "module",
+    "public transport",
+    "Västtrafik",
+    "Göteborg",
+    "Gothenburg"
+  ],
+  "author": "Tommy Bandzaw",
+  "license": "Boost License",
+  "bugs": {
+    "url": "https://github.com/bandzaw/MMM-VastTrafik-OldSchool/issues"
+  },
+  "homepage": "https://github.com/bandzaw/MMM-VastTrafik-OldSchool#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}

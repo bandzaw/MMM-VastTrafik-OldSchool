@@ -1,0 +1,23 @@
+.MMM-VastTrafik-OldSchool table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.MMM-VastTrafik-OldSchool td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.MMM-VastTrafik-OldSchool tr.current-day {
+    background-color: #454545;
+}
+
+.MMM-VastTrafik-OldSchool tr.current-day td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.MMM-VastTrafik-OldSchool td.weekday {
+    vertical-align: top;
+    font-weight: bold;
+}
